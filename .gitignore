@@ -1,0 +1,6 @@
+**/_pycache_/
+
+SalaryData_Train.csv
+SalaryData_Test.csv
+preprocessTestData.csv
+preprocessTrainData.csv
